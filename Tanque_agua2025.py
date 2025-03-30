@@ -26,10 +26,8 @@ horas = int(R)
 m = int((R - horas) * 60)
 
 ##Salida
-print("\nRESULTADO: ")
+print("\nSALIDA: ")
 print("-------------------------------------------------------")
 print("Tiempo de llenado de ambos tanques es:", R)
 print(f"Tiempo de llenado de ambos tanques es: {R:.2f}","horas")
 print(f"Tiempo de llenado de ambos tanques es: {m:.2f}","minutos")
-
-

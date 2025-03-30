@@ -1,0 +1,84 @@
+John@DESKTOP-KOVUFOG MINGW64 /
+ls
+pwd
+ls
+pwd
+cd mingw64
+ls
+git config -h
+cd ..
+ls
+cd
+John@DESKTOP-KOVUFOG MINGW64 ~ (master)
+ls
+pwd
+cd /c/Users/John/Desktop
+ls
+ mkdir proyecto_1
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/Junio (master)
+cd /c/Users/John/Desktop/
+
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop (master)
+cd /c/Users/John/Desktop/proyecto_1
+git init
+Initialized empty Git repository in C:/Users/John/Desktop/proyecto_1/.git/
+ls -a
+cd .git
+ls -a
+cd ..
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+code .
+git status
+git add Pronostico.py
+git status
+git remote add origin https://github.com/JWILLSOPORTE/Codigo-Python-2025.git
+git status
+git commit -m "Agregue el Archivo Pronostico.py"
+code .
+git status
+git push
+git add Pronostico.py -- cuando has modificado algo
+git commit -m " Agregue otro Archivo de Prueba"
+git push
+git status
+git add Dp_e_Ip.py
+git commit -m "Primer ejercicio Matemático"
+git push
+git add Funciones
+git commit -m "Agregue carpeta de funciones"
+git push
+git status
+
+
+John@DESKTOP-KOVUFOG MINGW64 /
+$ cd
+John@DESKTOP-KOVUFOG MINGW64 ~ (master)
+$ ls
+John@DESKTOP-KOVUFOG MINGW64 ~ (master)
+$ pwd
+/c/Users/John
+John@DESKTOP-KOVUFOG MINGW64 ~ (master)
+$ cd /c/Users/John/Desktop/
+
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop (master)
+$ cd /c/Users/John/Desktop/proyecto_1
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git status
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git add Tanque_agua.py
+
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git commit -m "Cuarto ejercicio Matemático"
+
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git push
+
+
+Esta parte no utilizar
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git rm Tanque_agua.py
+
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git checkout 54acec30d88e1d1fb7132c7a234a6a3e396adde5 Tanque_agua.py
+Updated 1 path from 9667079
+

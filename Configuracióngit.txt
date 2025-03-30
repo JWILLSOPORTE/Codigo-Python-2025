@@ -78,7 +78,16 @@ Esta parte no utilizar
 John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
 $ git rm Tanque_agua.py
 
+Esto para recuperar
 John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
 $ git checkout 54acec30d88e1d1fb7132c7a234a6a3e396adde5 Tanque_agua.py
 Updated 1 path from 9667079
+
+Esto acualizar en el repositorio
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git add .
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git commit -m "Cambios"
+John@DESKTOP-KOVUFOG MINGW64 ~/Desktop/proyecto_1 (master)
+$ git push
 

@@ -16,7 +16,7 @@ resta_B = multiB + 4
 Total = resta_A , resta_B
 
 ##Salida
-print("\nSALIDA: ")
+print("\nResultado: ")
 print("-------------------------------------------------------")
 print("El resultado del primer valor:", "<", multiA)
 print("El resultado del segundo valor :", multiB ,"]")

@@ -17,7 +17,7 @@ Total = resta_A , resta_B
 
 
 ##Salida
-print("\nSALIDA: ")
+print("\nJEYCO: ")
 print("-------------------------------------------------------")
 print("El resultado del primer valor:", "<", multiA)
 print("El resultado del segundo valor :", multiB ,"]")
